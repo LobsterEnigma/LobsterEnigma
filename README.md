@@ -62,7 +62,7 @@ View the current status of my websites, services, and projects.
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ View the current status of my websites, services, and projects.
 </div>
 
 ---
-
+-->
 ## 🐍 Contribution Snake
 
 <p align="center">
