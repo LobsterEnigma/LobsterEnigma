@@ -67,7 +67,7 @@ View the current status of my websites, services, and projects.
 <div align="center">
 
 <img
-  src="[https://github-readme-stats.vercel.app/api?username=](https://github-stats-extended.vercel.app/api?username=LobsterEnigma&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  src="./profile/stats.svg"
   alt="George's GitHub Stats"
 />
 
