@@ -6,7 +6,7 @@
 
 ### 🎓 CS Student · 🚀 Builder · 🌐 Web & Operations
 
-[![My Blog](https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=safari&logoColor=white)](https://longxiastudio.com/)
+[![My Blog](https://img.shields.io/badge/My_Blog-Visit-111111?style=for-the-badge&logo=safari&logoColor=white)](https://longxiastudio.com/)
 
 </div>
 
