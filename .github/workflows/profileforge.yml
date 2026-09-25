@@ -20,4 +20,4 @@ jobs:
         with:
           outputs: |
             profile/pet.svg?name=Lobster&species=crab
-            profile/city.svg?widget=city
+            profile/city.svg?widget=city&species=crab
