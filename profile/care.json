@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "since": "2026-09-25T18:33:33.782Z",
+  "last": {
+    "feed": null,
+    "bath": null,
+    "play": null
+  },
+  "day": "2026-09-25",
+  "today": {},
+  "todayTotal": 0,
+  "totals": {
+    "feed": 0,
+    "bath": 0,
+    "play": 0
+  },
+  "recent": [],
+  "handled": []
+}
