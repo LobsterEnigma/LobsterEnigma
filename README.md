@@ -12,6 +12,8 @@
 <!-- 我的宠物 -->
 <img src="./profile/pet.svg" alt="Lobster, my ProfileForge pet" />
 
+[🍖 Feed](https://github.com/LobsterEnigma/LobsterEnigma/issues/new?title=ProfileForge%3A%20feed&body=Just%20press%20%2A%2ACreate%2A%2A.%20Your%20visit%20reaches%20the%20pet%20in%20a%20minute%20or%20two.) · [🛁 Bath](https://github.com/LobsterEnigma/LobsterEnigma/issues/new?title=ProfileForge%3A%20bath&body=Just%20press%20%2A%2ACreate%2A%2A.%20Your%20visit%20reaches%20the%20pet%20in%20a%20minute%20or%20two.) · [🎾 Play](https://github.com/LobsterEnigma/LobsterEnigma/issues/new?title=ProfileForge%3A%20play&body=Just%20press%20%2A%2ACreate%2A%2A.%20Your%20visit%20reaches%20the%20pet%20in%20a%20minute%20or%20two.)
+
 </div>
 
 ---

@@ -7,17 +7,29 @@ on:
   push:
     branches: [main]
     paths: [".github/workflows/profileforge.yml"]
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
+  issues: write
+
+# One run at a time, so visits never race each other.
+concurrency:
+  group: profileforge
+  cancel-in-progress: false
 
 jobs:
   pet:
+    # Skip issues that aren't for the pet. The Action checks the title again itself.
+    if: github.event_name != 'issues' || startsWith(github.event.issue.title, 'ProfileForge:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
       - uses: LobsterEnigma/ProfileForge@v1
         with:
+          care: true
+          care_file: profile/care.json
           outputs: |
             profile/pet.svg?name=Lobster&species=crab
             profile/city.svg?widget=city&species=crab
