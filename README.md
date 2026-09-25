@@ -8,6 +8,10 @@
 
 [![My Blog](https://img.shields.io/badge/My_Blog-Visit-111111?style=for-the-badge&logo=safari&logoColor=white)](https://longxiastudio.com/)
 
+<br>
+<!-- 我的宠物 -->
+<img src="./profile/pet.svg" alt="Lobster, my ProfileForge pet" />
+
 </div>
 
 ---
@@ -61,13 +65,6 @@ View the current status of my websites, services, and projects.
 </div>
 
 ---
-
-<!-- 我的宠物 -->
-## 🦀 My Pet
-
-<p align="center">
-  <img src="./profile/pet.svg" alt="My ProfileForge pet" />
-</p>
 
 <!-- ## 📊 GitHub Stats
 
