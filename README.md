@@ -78,7 +78,7 @@ View the current status of my websites, services, and projects.
 </div>
 
 ---
--->
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -96,4 +96,10 @@ View the current status of my websites, services, and projects.
       src="https://raw.githubusercontent.com/LobsterEnigma/LobsterEnigma/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>-->
+
+## 🌃 My City
+
+<p align="center">
+  <img src="./profile/city.svg" alt="LobsterEnigma's pixel city" />
 </p>
