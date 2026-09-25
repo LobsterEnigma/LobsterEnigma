@@ -19,5 +19,5 @@ jobs:
       - uses: LobsterEnigma/ProfileForge@v1
         with:
           outputs: |
-            profile/pet.svg?name=Lobster=crab
+            profile/pet.svg?name=Lobster&species=crab
             profile/city.svg?widget=city
