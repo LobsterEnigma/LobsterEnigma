@@ -62,6 +62,13 @@ View the current status of my websites, services, and projects.
 
 ---
 
+<!-- 我的宠物 -->
+## 🦀 My Pet
+
+<p align="center">
+  <img src="./profile/pet.svg" alt="My ProfileForge pet" />
+</p>
+
 <!-- ## 📊 GitHub Stats
 
 <div align="center">
