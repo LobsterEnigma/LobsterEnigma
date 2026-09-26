@@ -6,13 +6,9 @@
     "bath": null,
     "play": null
   },
-  "day": "2026-09-25",
-  "today": {
-    "LobsterEnigma": [
-      "feed"
-    ]
-  },
-  "todayTotal": 1,
+  "day": "2026-09-26",
+  "today": {},
+  "todayTotal": 0,
   "totals": {
     "feed": 1,
     "bath": 0,
@@ -25,7 +21,9 @@
       "at": "2026-09-25T18:36:25.118Z"
     }
   ],
-  "handled": [
-    1
-  ]
+  "house": {
+    "issue": 2,
+    "cursor": 0,
+    "cursorAt": null
+  }
 }
