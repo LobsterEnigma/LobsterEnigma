@@ -31,6 +31,7 @@ jobs:
           care: true
           care_issue: 2
           care_file: profile/care.json
+          dirt: false
           outputs: |
             profile/pet.svg?name=Lobster&species=crab
             profile/city.svg?widget=city&species=crab
