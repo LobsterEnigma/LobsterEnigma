@@ -4,17 +4,26 @@
   "last": {
     "feed": "2026-09-25T18:36:25.118Z",
     "bath": null,
-    "play": null
+    "play": "2026-09-26T03:22:17.748Z"
   },
   "day": "2026-09-26",
-  "today": {},
-  "todayTotal": 0,
+  "today": {
+    "LobsterEnigma": [
+      "play"
+    ]
+  },
+  "todayTotal": 1,
   "totals": {
     "feed": 1,
     "bath": 0,
-    "play": 0
+    "play": 1
   },
   "recent": [
+    {
+      "action": "play",
+      "by": "LobsterEnigma",
+      "at": "2026-09-26T03:22:17.748Z"
+    },
     {
       "action": "feed",
       "by": "LobsterEnigma",
@@ -23,7 +32,7 @@
   ],
   "house": {
     "issue": 2,
-    "cursor": 0,
-    "cursorAt": null
+    "cursor": 5842729858,
+    "cursorAt": "2026-09-26T03:22:09.000Z"
   }
 }
