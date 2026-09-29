@@ -10,7 +10,7 @@
 
 <br>
 <!-- 我的宠物 -->
-<img src="./profile/pet.svg" alt="Lobster, my ProfileForge pet" />
+<img src="https://raw.githubusercontent.com/LobsterEnigma/LobsterEnigma/profileforge/profile/pet.svg" alt="Lobster, my ProfileForge pet" />
 
 [🏠 Visit Lobster's house: 🍖 feed · 🛁 bath · 🎾 play](https://github.com/LobsterEnigma/LobsterEnigma/issues/2)
 
@@ -103,5 +103,5 @@ View the current status of my websites, services, and projects.
 ## 🌃 My City
 
 <p align="center">
-  <img src="./profile/city.svg" alt="LobsterEnigma's pixel city" />
+  <img src="https://raw.githubusercontent.com/LobsterEnigma/LobsterEnigma/profileforge/profile/city.svg" alt="LobsterEnigma's pixel city" />
 </p>
