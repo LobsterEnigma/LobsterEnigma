@@ -26,8 +26,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: LobsterEnigma/ProfileForge@v1
+      - uses: LobsterEnigma/ProfileForge@main
         with:
+          branch: output
           care: true
           care_issue: 2
           care_file: profile/care.json
