@@ -28,7 +28,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: LobsterEnigma/ProfileForge@main
         with:
-          branch: output
+          branch: profileforge
           care: true
           care_issue: 2
           care_file: profile/care.json
