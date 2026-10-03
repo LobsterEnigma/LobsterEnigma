@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "since": "2026-09-25T18:33:33.782Z",
+  "last": {
+    "feed": "2026-09-25T18:36:25.118Z",
+    "bath": null,
+    "play": "2026-09-26T03:22:17.748Z"
+  },
+  "day": "2026-10-03",
+  "today": {},
+  "todayTotal": 0,
+  "totals": {
+    "feed": 1,
+    "bath": 0,
+    "play": 1
+  },
+  "recent": [
+    {
+      "action": "play",
+      "by": "LobsterEnigma",
+      "at": "2026-09-26T03:22:17.748Z"
+    },
+    {
+      "action": "feed",
+      "by": "LobsterEnigma",
+      "at": "2026-09-25T18:36:25.118Z"
+    }
+  ],
+  "house": {
+    "issue": 2,
+    "cursor": 5842729858,
+    "cursorAt": "2026-09-26T03:22:09.000Z"
+  }
+}
